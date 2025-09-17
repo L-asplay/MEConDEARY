@@ -1,0 +1,31 @@
+nohup: ignoring input
+  [*] Loading model from ./zzzz/mec40/4/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec40/4/epoch-49.pt
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzzz/mec40/8/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec40/8/epoch-49.pt
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzzz/mec40/12/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec40/12/epoch-49.pt
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzzz/mec40/16/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec40/16/epoch-49.pt
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+{'SDEARY': {'4': array(141.59234619), '8': array(131.32510376), '12': array(118.10147095), '16': array(106.82096863)}, 'GDEARY': {'4': array(141.33670044), '8': array(131.24305725), '12': array(118.02224731), '16': array(106.4740448)}, 'GA': {'4': array(137.93321758), '8': array(124.62504315), '12': array(109.54818877), '16': array(95.80589437)}, 'SA': {'4': array(140.00967808), '8': array(126.71143646), '12': array(110.84163452), '16': array(96.22812876)}, 'RGA': {'4': array(137.64734682), '8': array(124.40972638), '12': array(108.51105342), '16': array(95.66827808)}, 'RSA': {'4': array(144.59638752), '8': array(132.61383603), '12': array(118.64726923), '16': array(105.49267782)}}
+The picture is accessable

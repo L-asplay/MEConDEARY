@@ -1,0 +1,35 @@
+nohup: ignoring input
+  [*] Loading model from ./zzz/mec_30/epoch-49.pt
+  [*] Loading Selectlayer from ./zzz/mec_30/epoch-49.pt
+2 Model over
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzzz/mec50/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec50/epoch-49.pt
+2 Model over
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzz/mec_100/epoch-49.pt
+  [*] Loading Selectlayer from ./zzz/mec_100/epoch-49.pt
+2 Model over
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+  [*] Loading model from ./zzzz/mec150/epoch-49.pt
+  [*] Loading Selectlayer from ./zzzz/mec150/epoch-49.pt
+2 Model over
+2 Model over
+SA over
+GA over
+SA2 over
+GA2 over
+{'SDEARY': {'30': array(92.19535065), '50': array(164.89593506), '100': array(268.29647827), '150': array(532.95184326)}, 'GDEARY': {'30': array(86.93563843), '50': array(159.92373657), '100': array(261.27932739), '150': array(527.6138916)}, 'GA': {'30': array(105.61022281), '50': array(182.04624097), '100': array(326.76835135), '150': array(580.3954557)}, 'SA': {'30': array(106.98818397), '50': array(185.49769718), '100': array(331.31326343), '150': array(587.78233742)}, 'RGA': {'30': array(105.65564263), '50': array(181.89517309), '100': array(327.19624076), '150': array(580.08736317)}, 'RSA': {'30': array(111.96333764), '50': array(189.54588851), '100': array(340.48902629), '150': array(590.82831189)}}
+The picture is accessable
